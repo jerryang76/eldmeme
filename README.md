@@ -9,6 +9,8 @@
 ## 安裝及運行
 
 ```console
+git clone https://github.com/jerryang76/eldmeme
+cd eldmeme
 npm i
 npm start
 ```
