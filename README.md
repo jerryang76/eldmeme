@@ -21,9 +21,9 @@ npm start
 npm run build
 ```
 
-## 貢獻
+## 修改自:
 
-歡迎提出 PR／新功能
+[skipness/eldmeme](https://github.com/skipness/eldmeme)
 
 
 ## 協議
