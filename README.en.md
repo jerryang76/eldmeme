@@ -19,11 +19,6 @@ npm start
 npm run build
 ```
 
-## Contributing
-
-Welcome any pr / suggestions
-
-
 ## License
 
 [MIT](https://github.com/skipness/eldmeme/blob/master/LICENSE) @ skipness
