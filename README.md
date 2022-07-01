@@ -1,6 +1,6 @@
 # 簡易長輩圖製作器
 
-[English](https://github.com/skipness/eldmeme/blob/master/README.en.md)
+[English](https://github.com/jerryang76/eldmeme/edit/master/README.en.md)
 
 這是一個用空閑時間寫的長輩圖製作器，功能雖然簡單不過可以製作到基本的長輩圖
 
