@@ -4,7 +4,7 @@
 
 A simple Eldmeme(長輩圖) generator written in my spare time.
 
-![image](https://user-images.githubusercontent.com/8035517/70292380-168fe700-1819-11ea-9a79-83f41f97b2e8.png)
+![image](https://raw.githubusercontent.com/jerryang76/eldmeme/master/sample.png)
 
 ## Install & Run
 
