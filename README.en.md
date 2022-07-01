@@ -1,6 +1,6 @@
 # Simple Eldmeme Generator
 
-[中文](https://github.com/skipness/eldmeme/blob/master/README.md)
+[中文](https://github.com/jerryang76/eldmeme/edit/master/README.md)
 
 A simple Eldmeme(長輩圖) generator written in my spare time.
 
