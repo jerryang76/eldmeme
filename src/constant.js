@@ -16,4 +16,6 @@ export const elderlyWords = [
   '懷寧浸信會',
   '喜樂平安',
   '阿們',
+  '平安！',
+  '您好！',
 ];
