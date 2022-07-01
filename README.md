@@ -23,9 +23,4 @@ npm run build
 
 ## 修改自:
 
-[skipness/eldmeme](https://github.com/skipness/eldmeme)
-
-
-## 協議
-
 [MIT](https://github.com/skipness/eldmeme/blob/master/LICENSE) @ skipness
